@@ -1,0 +1,31 @@
+# Keil MDK 编译产物
+OBJ/
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.sct
+*.iex
+*.dep
+*.htm
+*.build_log.htm
+*.uvguix.*
+*.scvd
+*.bak
+*.T
+
+# J-Link 调试日志
+JLinkLog.txt
+JLinkSettings.ini
+
+# 系统文件
+Thumbs.db
+.DS_Store
